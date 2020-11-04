@@ -1,3 +1,3 @@
 # CL-2020-21
-28 октября: загружено д/з от 14 октября: знакомство с Python, git, PyCharm, Colab, Jupyter Notebook
+28 октября: загружено д/з от 14 октября: знакомство с Python, git, PyCharm, Colab, Jupyter Notebook <br>
 4 ноября: загружено д/з от 21 октября: операторы ввода / вывода, списки, циклы EasyMode
